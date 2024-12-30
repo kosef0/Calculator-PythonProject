@@ -36,7 +36,7 @@ Projenin çalışabilmesi için aşağıdaki adımları takip edebilirsiniz:
     Git kullanarak projeyi bilgisayarınıza klonlayabilirsiniz:
     
     ```bash
-    git clone https://github.com/kullaniciadi/hesap-makinesi.git
+    git clone https://github.com/kullaniciadi/calculator.git
     ```
 
     Alternatif olarak, projenin ZIP dosyasını indirebilirsiniz.
