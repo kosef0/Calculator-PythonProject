@@ -14,13 +14,8 @@ Bu proje, Python'un **Tkinter** kütüphanesi kullanılarak yapılmış basit ve
 - Logaritma ve Üssü alma (exp)
 - Grafiksel arayüz (GUI)
 
----
 
-## Ekran Görüntüsü
-
-https://github.com/user-attachments/assets/d266377f-6a0f-45b4-b24b-ff1ad6c2ddec
-
----
+------------------------------------------------------------------
 
 ## Gereksinimler
 
@@ -28,7 +23,7 @@ https://github.com/user-attachments/assets/d266377f-6a0f-45b4-b24b-ff1ad6c2ddec
 - Tkinter (Genellikle Python ile birlikte gelir)
 - `math` kütüphanesi (Python ile birlikte gelir)
 
----
+------------------------------------------------------------------
 
 ## Kurulum ve Çalıştırma
 
