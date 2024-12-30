@@ -18,8 +18,7 @@ Bu proje, Python'un **Tkinter** kütüphanesi kullanılarak yapılmış basit ve
 
 ## Ekran Görüntüsü
 
-![Hesap Makinesi](assets/![Calculator Photo](https://github.com/user-attachments/assets/d266377f-6a0f-45b4-b24b-ff1ad6c2ddec)
-)
+https://github.com/user-attachments/assets/d266377f-6a0f-45b4-b24b-ff1ad6c2ddec
 
 ---
 
